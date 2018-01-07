@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["HRDAPR","Value of the field"],["R","Value read from the register"]]});

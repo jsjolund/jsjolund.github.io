@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MFAR","Value of the field"],["MFCR","Value of the field"],["OFOCR","Value of the field"],["OMFCR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_MFAW","Proxy"],["_MFCW","Proxy"],["_OFOCW","Proxy"],["_OMFCW","Proxy"]]});

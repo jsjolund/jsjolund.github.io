@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["PTXFDR","Value of the field"],["PTXSAR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_PTXFDW","Proxy"],["_PTXSAW","Proxy"]]});

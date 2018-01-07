@@ -1,1 +1,0 @@
-initSidebarItems({"macro":[["default_handler","This macro lets you override the default exception handler"],["exception","Assigns a handler to an exception"]]});

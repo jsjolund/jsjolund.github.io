@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Hertz","`Hz`"],["IHertz","`Hz^-1`"],["Microseconds","`us`"],["Milliseconds","`ms`"],["Seconds","`s`"]],"trait":[["U32Ext","`u32` extension trait"]]});

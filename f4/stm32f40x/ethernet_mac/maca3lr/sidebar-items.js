@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MBCA3LR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_MBCA3LW","Proxy"]]});

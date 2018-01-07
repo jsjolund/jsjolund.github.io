@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Error","Input / capture error"],["Event","Interrupt event"]],"struct":[["Capture","Input capture interface"]]});

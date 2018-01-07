@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["MadgwickAhrs","Madgwick's IMU and AHRS"]]});

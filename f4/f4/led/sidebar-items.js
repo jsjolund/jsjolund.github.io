@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["LED","LED connected to pin PA5"]],"fn":[["init","Initializes the user LED"]],"struct":[["PA5","Pin PA5. There's an LED connected to this pin"]]});
