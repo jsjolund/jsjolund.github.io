@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["set","Set system clock"],["set_100_mhz","Set system clock to 100 MHz"],["set_84_mhz","Set system clock to 84 MHz"]]});
